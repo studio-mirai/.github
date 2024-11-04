@@ -1,6 +1,6 @@
 # Studio Mirai
 
-## Projects
+## Open Source Projects
 
 * [Prime Machin](https://github.com/mirai-labs/prime-machin-contracts/) – A state-of-the-art dynamic NFT collection with onchain image storage.
 * [MiraiFS](https://github.com/studio-mirai/miraifs) – An onchain file storage standard for Sui.
